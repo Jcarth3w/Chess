@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab898d2d-168b-4935-83df-c88bd7e4c960" name="Changes" comment="Add Files" />
+    <list default="true" id="ab898d2d-168b-4935-83df-c88bd7e4c960" name="Changes" comment="Add Tile, EmptyTile and Piece Classes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +14,13 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="4607a453-dadb-47bd-aeef-7cd423daf8b0" />
@@ -48,7 +55,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672249673963</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add Tile, EmptyTile and Piece Classes">
+      <created>1672250696183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1672250696183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -64,6 +78,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Files" />
+    <MESSAGE value="Add Tile, EmptyTile and Piece Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Tile, EmptyTile and Piece Classes" />
   </component>
 </project>

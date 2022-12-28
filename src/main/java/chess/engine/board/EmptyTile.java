@@ -1,3 +1,7 @@
+package chess.engine.board;
+
+import chess.engine.pieces.Piece;
+
 public class EmptyTile extends Tile
 {
     EmptyTile(int coordinate)
