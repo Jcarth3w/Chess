@@ -4,7 +4,7 @@ import chess.engine.pieces.Piece;
 
 public class OccupiedTile extends Tile
 {
-    Piece pieceOnTile;
+    private Piece pieceOnTile;
 
     OccupiedTile(int coordinate, Piece pieceOnTile)
     {

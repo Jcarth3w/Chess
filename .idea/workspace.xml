@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab898d2d-168b-4935-83df-c88bd7e4c960" name="Changes" comment="Add Tile, EmptyTile and Piece Classes" />
+    <list default="true" id="ab898d2d-168b-4935-83df-c88bd7e4c960" name="Changes" comment="Arrange Files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chess/engine/board/EmptyTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/engine/board/EmptyTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chess/engine/board/OccupiedTile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/engine/board/OccupiedTile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chess/engine/board/Tile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chess/engine/board/Tile.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,10 +39,16 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/chess/engine" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +73,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672250696183</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Arrange Files">
+      <created>1672251672134</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1672251672134</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -79,6 +97,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Add Files" />
     <MESSAGE value="Add Tile, EmptyTile and Piece Classes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Tile, EmptyTile and Piece Classes" />
+    <MESSAGE value="Arrange Files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arrange Files" />
   </component>
 </project>
